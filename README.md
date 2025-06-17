@@ -28,7 +28,6 @@ Xây dựng một website thương mại điện tử cho phép người dùng m
 
 - Hệ thống dễ mở rộng (modular, có thể thêm nhiều loại sản phẩm mới)
 - Tốc độ tải trang nhanh (dưới 3 giây)
-- Bảo mật thông tin người dùng (mã hoá mật khẩu, chống SQL injection)
 - Responsive – chạy tốt trên điện thoại, máy tính bảng, laptop
 - Giao diện người dùng dễ sử dụng, thân thiện
 
@@ -38,8 +37,8 @@ Xây dựng một website thương mại điện tử cho phép người dùng m
 
 - **Frontend:**
   - HTML, CSS, JavaScript
-  - Bootstrap hoặc Tailwind CSS
-  - Vue.js hoặc React (nếu có)
+  - Bootstrap
+  - Vue.js 
 
 - **Backend:**
   - Laravel (PHP Framework)
@@ -48,7 +47,7 @@ Xây dựng một website thương mại điện tử cho phép người dùng m
 - **Khác:**
   - Git & GitHub để quản lý phiên bản
   - XAMPP hoặc Laravel Valet để chạy cục bộ
-  - Postman (test API nếu có)
+ 
 
 ---
 
